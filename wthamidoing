@@ -5,3 +5,8 @@ The top:50px; section is not changing the position of the picture on my page...
 ok, so i changed it to   
 style='position:absolute;top:150px;width:325px;mix-blend-mode:darken'/>
 and im able to change the position now...
+ 
+ok next question; can html or css (im not sure which is which) do anything cool to dress up a picture like this?
+https://imgur.com/AeqUTQb
+For instance I was able to use the mix  blend mode darken to take away a white background of a different image and it blended with the 
+brown/tan background of homebrewery really well. Can I add a border or anything like that?
