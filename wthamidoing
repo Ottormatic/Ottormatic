@@ -1,1 +1,7 @@
 style='top:50px;width:325px;mix-blend-mode:darken'/>
+
+
+The top:50px; section is not changing the position of the picture on my page...
+ok, so i changed it to   
+style='position:absolute;top:150px;width:325px;mix-blend-mode:darken'/>
+and im able to change the position now...
